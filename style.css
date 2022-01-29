@@ -1,0 +1,54 @@
+.menu {
+    display : center;
+    justify-content :space-between;
+    background-color : black;
+    font-size : 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color : white
+}
+.body{
+    background-color : whitesmoke
+}
+
+.grid{
+    background-color : rgb(255, 153, 161) ;
+    display: flex;
+    justify-content: center;
+    
+}
+.grid2{
+    background-color: rgb(255, 183, 178);
+    display: flex;
+    justify-content: center;
+}
+.grid3{
+    background-color: rgb(255, 218, 193);
+    display: flex;
+    justify-content: center;
+}
+.grid4{
+    background-color: rgb(226, 240, 195);
+    display: flex;
+    justify-content: center;
+}
+.grid5{
+    background-color: rgb(181, 234, 215);
+    display: flex;
+    justify-content: center;
+}
+.grid6{
+    background-color: rgb(199, 206, 234);
+    display: flex;
+    justify-content: center;
+}
+.gridimg{
+    border : 3px solid black;
+    border-radius : 50px;
+}
+.origami{
+    border-radius : 20px;
+    background-color : white;
+    width : 310px;
+    font-family: fantasy;
+}
